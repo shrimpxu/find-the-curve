@@ -1,0 +1,14 @@
+html, body {
+  width: 50px;
+  margin: 50px auto;
+  position:relative;
+}
+canvas {
+  display:block;
+}
+
+h2{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  color:darkslateblue;
+}
