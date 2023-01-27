@@ -9,11 +9,13 @@ main {
   margin: 20px auto;
   width: 100%;
   max-width: 600px;
-
+}
+#sketch-container{
+  width: 100%;
 }
 
 h2{
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 30px;
+  font-size: 25px;
   color:darkslateblue;
 }
